@@ -1,0 +1,24 @@
+{
+  "name": "puppeteer-prerender",
+  "version": "1.0.0",
+  "description": "Puppeteer prerender used for seo",
+  "main": "puppet-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edemtech/puppeteer-prerender.git"
+  },
+  "author": "Edward Gryukachev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edemtech/puppeteer-prerender/issues"
+  },
+  "homepage": "https://github.com/edemtech/puppeteer-prerender#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "puppeteer": "^1.11.0",
+    "useragent": "^2.3.0"
+  }
+}
